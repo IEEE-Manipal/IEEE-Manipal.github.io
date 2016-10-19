@@ -278,7 +278,7 @@ h5 {
     font-weight: 300;
 }
 
-p { color: #6d747c;
+p { color: #333;
     font-size: 16px;
     font-weight: 300;
 }
@@ -528,7 +528,7 @@ header .color-overlay {
 .sticky-navigation .main-navigation li a {
   font-family: 'Lato', sans-serif;
   letter-spacing: 1px;
-  font-weight: 400;
+  font-weight: 700;
   font-size: 10px;
   text-transform: uppercase;
 }
