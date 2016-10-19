@@ -623,7 +623,7 @@ header .only-logo .navbar .navbar-header {
   text-transform: uppercase;
   font-family: 'Lato', sans-serif;
   padding: 10px;
-    font-weight: 500;
+  font-weight: 700;
 }
 
 .video-wrap {
@@ -832,7 +832,18 @@ header .only-logo .navbar .navbar-header {
 
 
 /* =-=-=-=-=-=-= TYPE TEXT BG=-=-=-=-=-=-= */
-
+@font-face {
+    font-family: Lato;
+    src: url(../fonts/Lato.woff2);
+}
+@font-face {
+          font-family: Montserrat;
+          src: url(../fonts/Montserrat.woff2);
+}
+@font-face {
+    font-family: "Source Sans Pro";
+    src: url(../fonts/SourceSansPro.woff2);
+}
 @keyframes blink {
     0% { opacity: 1.0; }
     50% { opacity: 0.0; }
