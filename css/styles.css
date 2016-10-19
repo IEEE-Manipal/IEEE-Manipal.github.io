@@ -1844,9 +1844,8 @@ display: block;
 
 #content-slider .item img{
     display: block;
-    //width: 100%;
-    height: 100%;
-    width: auto;
+    width: 100%;
+    height: auto;
 }
 
 .all-blog .owl-carousel .owl-controls .owl-page span {
