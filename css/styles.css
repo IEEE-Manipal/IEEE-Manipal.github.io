@@ -1568,7 +1568,7 @@ header .only-logo .navbar .navbar-header {
 
  .blog{
 
-  text-align: left;
+  
  }
 
 .post-img{
@@ -2510,6 +2510,7 @@ GOOGLE MAP
   background: #1d1d1d;
   padding-top: 80px;
   overflow-x: hidden;
+  padding-bottom:  25px;
 }
 .footer-logo {
   margin: 40px auto;
