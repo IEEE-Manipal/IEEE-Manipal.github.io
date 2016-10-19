@@ -957,7 +957,7 @@ header .only-logo .navbar .navbar-header {
   font-family: 'Lato', sans-serif;
   text-transform: uppercase;
   color: #FFFFFF;
-  font-size: 100px;
+  //font-size: 100px;
   font-weight: 100;
   letter-spacing: .1em;
 }
