@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["KB5+y"]); }
+
+__d('EntityPageDirectionalDockingElement',['DirectionalDockingElement','EntityPageDockingElementController'],(function a(b,c,d,e,f,g){var h,i;h=babelHelpers.inherits(j,c('DirectionalDockingElement'));i=h&&h.prototype;j.prototype.register=function(){'use strict';c('EntityPageDockingElementController').register(this.__queryDOM.bind(this),this.__updateWithCache.bind(this));};function j(){'use strict';h.apply(this,arguments);}f.exports=j;}),null);
